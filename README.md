@@ -1,5 +1,5 @@
 # DigitalSignalProcessing
-Projects completed for the DSP course taken during exchange term t Technical University of Munich (TUM).
+Projects completed for the DSP course taken during exchange term at Technical University of Munich (TUM).
 
 **Project 1:** Image Manipulation and Periodic Sequences \
 **Project 2:** Image Sampling and Filtering \
